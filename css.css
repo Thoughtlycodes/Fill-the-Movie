@@ -1,0 +1,63 @@
+.button
+{
+    width: 150px;
+    height: 30px;
+    border-radius: 30px;
+    background-color: salmon;
+}
+.buttonn
+{
+    width: 300px;
+    height: 90px;
+    border-radius: 30px;
+    margin: 10px;
+    background-color: yellow;
+}
+.box
+{
+    width: 5%;
+    height: 25px;
+    align-items: center;
+    float: left;
+    text-align: center;
+    text-transform: capitalize;
+    border: 2px solid;
+    margin: 2px;;
+}
+#score
+{
+    float: left;
+}
+#life
+{
+    color: red;
+    float: right;
+}
+#text
+{
+    width: 30px;
+    height: 30px;
+    align-items: center;
+    align-content: center;
+}
+#submit
+{
+    width: 90px;
+    height: 30px;
+}
+#Reload
+{
+    width: 90px;
+    height: 30px;
+    /* margin-left: 90%; */
+}
+#check
+{
+    width: 90px;
+    height: 30px;
+}
+.text
+{
+    width: 89%;
+    height: 20px;
+}
